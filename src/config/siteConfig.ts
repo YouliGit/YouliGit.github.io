@@ -74,8 +74,8 @@ export const siteConfig: SiteConfig = {
 		// 4. 网络图片: { type: "url", value: "https://example.com/logo.png", alt: "Logo" }
 		logo: {
 			type: "image",
-			value: "assets/images/firefly.png",
-			alt: "🍀",
+			value: "/assets/images/logo.jpg",
+			alt: "游狸同学的小blog",
 		},
 		// 导航栏标题
 		title: "游狸同学的小blog",
