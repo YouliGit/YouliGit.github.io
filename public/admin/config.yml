@@ -2,7 +2,7 @@ backend:
   name: github
   repo: YouliGit/YouliGit.github.io
   branch: master
-  base_url: https://youli-gk7rdu21i-youligits-projects.vercel.app
+  base_url: https://oauth.decap-cms.xyz
   auth_endpoint: auth
 
 media_folder: src/content/posts/images
