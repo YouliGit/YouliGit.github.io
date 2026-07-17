@@ -1,5 +1,3 @@
-# Decap CMS 配置
-
 backend:
   name: github
   repo: YouliGit/YouliGit.github.io
