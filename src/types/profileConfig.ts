@@ -1,5 +1,6 @@
 export type ProfileConfig = {
 	avatar?: string;
+	avatars?: string[];
 	name: string;
 	bio?: string;
 	links: {
